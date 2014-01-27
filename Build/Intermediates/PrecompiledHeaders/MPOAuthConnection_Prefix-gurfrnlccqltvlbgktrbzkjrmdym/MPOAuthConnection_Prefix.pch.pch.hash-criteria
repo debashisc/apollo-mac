@@ -1,0 +1,22 @@
+Contents of /Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch
+-x
+c
+-arch
+x86_64
+-std=c99
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+-fasm-blocks
+-mmacosx-version-min=10.9
+-g
+-iquote
+-iquote
+-I/Users/dev/Documents/Apollo/Build/Products/Debug/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2
+-F/Users/dev/Documents/Apollo/Build/Products/Debug
+x86_64-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)"
+SDK_PRODUCT_BUILD_VERSION=13A595
+13A595

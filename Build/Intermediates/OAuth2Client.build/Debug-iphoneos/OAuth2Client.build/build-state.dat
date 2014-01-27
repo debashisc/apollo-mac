@@ -1,0 +1,977 @@
+TOAuth2Client
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a normal armv7
+cLibtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a normal armv7s
+cCreateUniversalBinary /Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a normal armv7\ armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000052C59EB6000000000000036B
+t1388682934
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C59EB700000000000001A0
+t1388682935
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052C59EBB0000000000A92BC0
+t1388682939
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052C59EBE000000000017E0C0
+t1388682942
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052C59EC000000000025A5AC0
+t1388682944
+s39475904
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.o
+t1390629833
+s7432
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.o
+t1390629833
+s13940
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.o
+t1390629833
+s10012
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.o
+t1390629833
+s49204
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.o
+t1390629833
+s37392
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.o
+t1390629833
+s103040
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.o
+t1390629833
+s90468
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.o
+t1390629833
+s83164
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.o
+t1390629832
+s5136
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.o
+t1390629833
+s13544
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.o
+t1390629833
+s24680
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.o
+t1390629833
+s32140
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.o
+t1390629833
+s38768
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/OAuth2Client.LinkFileList
+c0000000052E353C80000000000000740
+t1390629832
+s1856
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a
+t1390629833
+s517256
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.o
+t1390629833
+s7432
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.o
+t1390629833
+s13940
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.o
+t1390629833
+s10012
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.o
+t1390629833
+s49204
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.o
+t1390629833
+s37392
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.o
+t1390629833
+s103040
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.o
+t1390629833
+s90468
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.o
+t1390629833
+s83172
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.o
+t1390629833
+s5136
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.o
+t1390629833
+s13544
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.o
+t1390629833
+s24680
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.o
+t1390629833
+s32140
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.o
+t1390629833
+s38768
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/OAuth2Client.LinkFileList
+c0000000052E353C8000000000000074D
+t1390629832
+s1869
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a
+t1390629833
+s517264
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.pch
+t1390629832
+s3145992
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.pch
+t1390629832
+s3146120
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a
+t1390629833
+s1034568
+
+N/Users/dev/Downloads/OAuth2Client-master/NXOAuth2Account+Private.h
+c00000000528B251A000000000000021C
+t1384850714
+s540
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.h
+c00000000528B251A0000000000000195
+t1384850714
+s405
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m
+c00000000528B251A0000000000000427
+t1384850714
+s1063
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+c00000000528B251A0000000000000256
+t1384850714
+s598
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m
+c00000000528B251A0000000000000BA5
+t1384850714
+s2981
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+c00000000528B251A00000000000002AD
+t1384850714
+s685
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m
+c00000000528B251A0000000000000642
+t1384850714
+s1602
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+c00000000528B251A000000000000088C
+t1384850714
+s2188
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m
+c00000000528B251A000000000000399B
+t1384850714
+s14747
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.h
+c00000000528B251A00000000000004F5
+t1384850714
+s1269
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m
+c00000000528B251A0000000000001CDD
+t1384850714
+s7389
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.h
+c00000000528B251A00000000000012AA
+t1384850714
+s4778
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m
+c00000000528B251A000000000000728C
+t1384850714
+s29324
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+c00000000528B251A00000000000010F1
+t1384850714
+s4337
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m
+c00000000528B251A000000000000574A
+t1384850714
+s22346
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+c00000000528B251A0000000000000393
+t1384850714
+s915
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+c00000000528B251A0000000000000CF5
+t1384850714
+s3317
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m
+c00000000528B251A0000000000005879
+t1384850714
+s22649
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+c00000000528B251A000000000000078F
+t1384850714
+s1935
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+c00000000528B251A0000000000000C15
+t1384850714
+s3093
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m
+c00000000528B251A0000000000000495
+t1384850714
+s1173
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.h
+c00000000528B251A000000000000047E
+t1384850714
+s1150
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m
+c00000000528B251A0000000000000613
+t1384850714
+s1555
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.h
+c00000000528B251A000000000000053F
+t1384850714
+s1343
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m
+c00000000528B251A000000000000128D
+t1384850714
+s4749
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.h
+c00000000528B251A00000000000002EA
+t1384850714
+s746
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m
+c00000000528B251A00000000000018A1
+t1384850714
+s6305
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.h
+c00000000528B251A00000000000006A3
+t1384850714
+s1699
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m
+c00000000528B251A0000000000001700
+t1384850714
+s5888
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+c00000000528B251A000000000000047D
+t1384850714
+s1149
+
+N/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client_Prefix.pch
+c00000000528B251A0000000000000126
+t1384850714
+s294
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m
+r0
+
+CBuild AST from /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbf9cc94f8b93b841^9b20ca4f8b93b841^---0#1#1#--18"Check dependencies36"0BD4B0F0-F010-4908-A2ED-5F11916F8F35-
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.032651
+e412322633.089914
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m243"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.o Sources/NSData+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb68008498b93b841^de0417498b93b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m0000000000000000^3340"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.o Sources/NSData+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSData+NXOAuth2.o36"43DD41AC-3ED5-4117-980F-7E7C5587281E-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.679804
+e412322633.033102
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m247"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.o Sources/NSString+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2d26ae488b93b841^f67908498b93b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m0000000000000000^3352"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.o Sources/NSString+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSString+NXOAuth2.o36"0F7F91DC-4E8D-4D01-8E7B-877BC18E9176-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.981383
+e412322633.047610
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m241"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.o Sources/NSURL+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerfc52fb488b93b841^90300c498b93b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m0000000000000000^3334"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.o Sources/NSURL+NXOAuth2.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NSURL+NXOAuth2.o36"0C640DEB-2D8F-4FCD-883F-17226EC2F361-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.676629
+e412322633.089007
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m264"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.o Sources/OAuth2Client/NXOAuth2AccessToken.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1766ad488b93b841^47ca16498b93b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m0000000000000000^3390"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.o Sources/OAuth2Client/NXOAuth2AccessToken.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccessToken.o36"BDD7FAB6-EFCE-45F6-BF3F-C67DC1393FFA-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.039287
+e412322633.333861
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m256"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.o Sources/OAuth2Client/NXOAuth2Account.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf4320a498b93b841^187955498b93b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m0000000000000000^3366"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.o Sources/OAuth2Client/NXOAuth2Account.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Account.o36"5B51B8CE-F70A-44BF-B7F4-2976201E9C2C-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.034009
+e412322633.573239
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.h
+d/Users/dev/Downloads/OAuth2Client-master/NXOAuth2Account+Private.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m266"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.o Sources/OAuth2Client/NXOAuth2AccountStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9cdf08498b93b841^8fc592498b93b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m0000000000000000^3396"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.o Sources/OAuth2Client/NXOAuth2AccountStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2AccountStore.o36"1D979DA3-465B-4C7B-803E-9C9593332088-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.676225
+e412322633.093943
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m254"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.o Sources/OAuth2Client/NXOAuth2Client.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a47ad488b93b841^761718498b93b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m0000000000000000^3360"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.o Sources/OAuth2Client/NXOAuth2Client.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Client.o36"C18B66EB-2347-496B-A138-620E1333E2E3-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.677330
+e412322633.093305
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m262"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.o Sources/OAuth2Client/NXOAuth2Connection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb98aad488b93b841^eee817498b93b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m0000000000000000^3384"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.o Sources/OAuth2Client/NXOAuth2Connection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Connection.o36"E9827B5A-3CAE-437D-A496-FC1D478707D6-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.677712
+e412322632.981093
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m260"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.o Sources/OAuth2Client/NXOAuth2Constants.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler81b2ad488b93b841^452bfb488b93b841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m0000000000000000^3378"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.o Sources/OAuth2Client/NXOAuth2Constants.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Constants.o36"F6A05301-5C0E-41CE-B63F-A70232577A8C-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.679361
+e412322633.031307
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m276"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.o Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0f0aae488b93b841^d50508498b93b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m0000000000000000^3426"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.o Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2FileStreamWrapper.o36"C6E0F270-F5A4-433F-80FD-85A0B568C7EC-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.678924
+e412322633.038892
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m266"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.o Sources/OAuth2Client/NXOAuth2PostBodyPart.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere9f3ad488b93b841^bf460a498b93b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m0000000000000000^3396"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.o Sources/OAuth2Client/NXOAuth2PostBodyPart.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyPart.o36"A40072CB-FB1C-4748-9F35-4A83A6A51782-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.678077
+e412322633.047271
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m270"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.o Sources/OAuth2Client/NXOAuth2PostBodyStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6dcaad488b93b841^bd1a0c498b93b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m0000000000000000^3408"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.o Sources/OAuth2Client/NXOAuth2PostBodyStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2PostBodyStream.o36"864F7C2F-857B-468C-B679-AF44AA86E8B2-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.048736
+e412322633.205558
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m256"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.o Sources/OAuth2Client/NXOAuth2Request.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0de10c498b93b841^d89f34498b93b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m0000000000000000^3366"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.o Sources/OAuth2Client/NXOAuth2Request.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/NXOAuth2Request.o36"3A14602E-642D-4905-8D97-92E5F7FAD34E-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.208908
+e412322633.286666
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m245"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.o Sources/NSData+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler6c9835498b93b841^fe6349498b93b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m0000000000000000^3347"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.o Sources/NSData+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSData+NXOAuth2.o36"FAB7FAC1-EAED-4A90-A1AC-A022D7F64BD0-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.206591
+e412322633.287478
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m249"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.o Sources/NSString+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerebff34498b93b841^899949498b93b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m0000000000000000^3359"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.o Sources/NSString+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSString+NXOAuth2.o36"84B34086-8AA8-4264-AEAF-4C1F5D14A8A7-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.o /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.207873
+e412322633.294020
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m243"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.o Sources/NSURL+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler715935498b93b841^bb464b498b93b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m0000000000000000^3341"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.o Sources/NSURL+NXOAuth2.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NSURL+NXOAuth2.o36"4DD550DA-2DF4-44E5-B40E-18A1058F2FE5-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.089395
+e412322633.206318
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m266"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.o Sources/OAuth2Client/NXOAuth2AccessToken.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerfdf916498b93b841^7cd334498b93b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m0000000000000000^3397"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.o Sources/OAuth2Client/NXOAuth2AccessToken.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccessToken.o36"72F72166-3F42-4C75-A9AC-74A03CD886D1-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.286915
+e412322633.349406
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSString+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m258"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.o Sources/OAuth2Client/NXOAuth2Account.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler448a49498b93b841^d67459498b93b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m0000000000000000^3373"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.o Sources/OAuth2Client/NXOAuth2Account.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Account.o36"BB42C431-7AC3-4F3B-9CAE-A871AEA006E1-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.234561
+e412322633.573186
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.h
+d/Users/dev/Downloads/OAuth2Client-master/NXOAuth2Account+Private.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m268"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.o Sources/OAuth2Client/NXOAuth2AccountStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler15393c498b93b841^23bf92498b93b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m0000000000000000^3403"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.o Sources/OAuth2Client/NXOAuth2AccountStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccountStore.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2AccountStore.o36"B62DA2BD-B76D-46ED-9B55-E644689CAEF7-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.049022
+e412322633.207553
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m256"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.o Sources/OAuth2Client/NXOAuth2Client.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler21ae0c498b93b841^3e2335498b93b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m0000000000000000^3367"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.o Sources/OAuth2Client/NXOAuth2Client.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Client.o36"A1E10BF6-0D63-4478-9FA3-7B597FB60C3B-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.090106
+e412322633.234062
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSData+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m264"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.o Sources/OAuth2Client/NXOAuth2Connection.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compileree2717498b93b841^473940498b93b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m0000000000000000^3391"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.o Sources/OAuth2Client/NXOAuth2Connection.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Connection.o36"21D8E4D4-404D-4794-AAA3-E4E6D533A56F-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.094264
+e412322633.187626
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m262"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.o Sources/OAuth2Client/NXOAuth2Constants.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc79b18498b93b841^e10a30498b93b841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m0000000000000000^3385"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.o Sources/OAuth2Client/NXOAuth2Constants.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Constants.o36"C7DCE7F6-7CBC-4915-801D-C96C01B8D2A4-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.205917
+e412322633.294811
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m278"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.o Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd5ce34498b93b841^b7794b498b93b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m0000000000000000^3433"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.o Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2FileStreamWrapper.o36"6F0B81B1-AC1F-4D95-AF85-3B4E34610A22-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.187969
+e412322633.295765
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2FileStreamWrapper.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m268"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.o Sources/OAuth2Client/NXOAuth2PostBodyPart.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc53730498b93b841^0bb84b498b93b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m0000000000000000^3403"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.o Sources/OAuth2Client/NXOAuth2PostBodyPart.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyPart.o36"BCCC3959-6004-4BCD-AC4D-1A5E45D24DD1-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.094954
+e412322633.208527
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyPart.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m272"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.o Sources/OAuth2Client/NXOAuth2PostBodyStream.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc57118498b93b841^676335498b93b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m0000000000000000^3415"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.o Sources/OAuth2Client/NXOAuth2PostBodyStream.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2PostBodyStream.o36"55553367-CE6A-4BFE-976B-145626BDD566-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.o /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322633.287668
+e412322633.350336
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.o
+x/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Connection.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Constants.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ConnectionDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2TrustDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2AccessToken.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Account.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Client.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2ClientDelegate.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2PostBodyStream.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/NSURL+NXOAuth2.h
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m258"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.o Sources/OAuth2Client/NXOAuth2Request.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler1bbe49498b93b841^14b059498b93b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m0000000000000000^3373"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.o Sources/OAuth2Client/NXOAuth2Request.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.dia -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client/NXOAuth2Request.m -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/NXOAuth2Request.o36"8D056DF4-9783-4076-84D5-7AEB129188D5-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CCreateUniversalBinary /Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a normal armv7\ armv7s
+s412322633.678833
+e412322633.819572
+r1
+xCreateUniversalBinary
+x/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Create universal binary /Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a118"CreateUniversalBinary /Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a normal armv7\ armv7s0bf0ad498b93b841^ead0d1498b93b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a0034108edfffdf42^735"CreateUniversalBinary /Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a normal armv7\ armv7s    cd /Users/dev/Downloads/OAuth2Client-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a -o /Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/libOAuth2Client.a36"3755AFD8-B0E1-4A46-9391-E322F09F135C-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CLibtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a normal armv7
+s412322633.574580
+e412322633.659793
+r1
+xLibtool
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Libtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a normal armv7160"Libtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a normal armv75a2a93498b93b841^6ceaa8498b93b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1103"Libtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a normal armv7    cd /Users/dev/Downloads/OAuth2Client-master    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -filelist /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/OAuth2Client.LinkFileList -ObjC -framework UIKit -framework Foundation -framework Security -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7/libOAuth2Client.a36"A1DF35D4-B03D-404A-AB90-4F1998FAA685-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CLibtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a normal armv7s
+s412322633.575484
+e412322633.670175
+r1
+xLibtool
+x/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Libtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a normal armv7s162"Libtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a normal armv7s7b6893498b93b841^6b9aab498b93b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1108"Libtool /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a normal armv7s    cd /Users/dev/Downloads/OAuth2Client-master    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos -filelist /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/OAuth2Client.LinkFileList -ObjC -framework UIKit -framework Foundation -framework Security -o /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/Objects-normal/armv7s/libOAuth2Client.a36"3A4D510B-8495-48DB-AEDD-C5F56AEE8F70-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.154935
+e412322632.675176
+r1
+xProcessPCH
+x/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.pch
+xSources/OAuth2Client_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile Sources/OAuth2Client_Prefix.pch255"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere7c327488b93b841^e8d9ac488b93b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client_Prefix.pch0000000000000000^3224"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7 -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.d -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client_Prefix.pch -o /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-goxvqoagmehpiqafaxbveqnjajji/OAuth2Client_Prefix.pch.pch36"116CF344-A2DF-4466-AE3B-4FFBACCEA4A6-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412322632.155368
+e412322632.674543
+r1
+xProcessPCH
+x/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.pch
+xSources/OAuth2Client_Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile Sources/OAuth2Client_Prefix.pch256"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler26e027488b93b841^25b1ac488b93b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client_Prefix.pch0000000000000000^3227"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/OAuth2Client-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/OAuth2Client-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources/armv7s -I/Users/dev/Documents/Apollo/Build/Intermediates/OAuth2Client.build/Debug-iphoneos/OAuth2Client.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.d -c /Users/dev/Downloads/OAuth2Client-master/Sources/OAuth2Client_Prefix.pch -o /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/OAuth2Client_Prefix-gxscyntftbrqvxbmmcfszykmqgkx/OAuth2Client_Prefix.pch.pch36"B5564780-AE1B-4AF6-AD8F-2C34328F7097-
+b1F635FEF-A3BD-44F0-95ED-0DAC5F151883
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/Apollo-hipmmsdgwqjewdbsfacbzdkjjhyd/Index/PrecompiledHeaders/OAuth2Client_Prefix-avcktwmjimhjfobwtokujcrpohez_ast/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/Apollo-hipmmsdgwqjewdbsfacbzdkjjhyd/Index/PrecompiledHeaders/OAuth2Client_Prefix-bflcgwbwctvqnkgzvvphogopxrdm_ast/OAuth2Client_Prefix.pch.pch Sources/OAuth2Client_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

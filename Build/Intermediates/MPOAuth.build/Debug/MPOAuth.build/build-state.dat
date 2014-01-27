@@ -1,0 +1,1643 @@
+TMPOAuth
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/Info.plist /Users/dev/Documents/mpoauthconnection-read-only/MPOAuth-Info.plist
+cCpHeader Source/Framework/MPOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuth.h
+cCpHeader Source/Framework/MPOAuthAPI.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPI.h
+cCpHeader Source/Framework/MPOAuthAPIRequestLoader.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPIRequestLoader.h
+cCpHeader Source/Framework/MPOAuthAuthenticationMethod.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethod.h
+cCpHeader Source/Framework/MPOAuthAuthenticationMethodOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethodOAuth.h
+cCpHeader Source/Framework/MPOAuthConnection.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthConnection.h
+cCpHeader Source/Framework/MPOAuthCredentialStore.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthCredentialStore.h
+cCpHeader Source/Framework/MPOAuthParameterFactory.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthParameterFactory.h
+cCpHeader Source/Framework/MPOAuthURLRequest.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLRequest.h
+cCpHeader Source/Framework/MPOAuthURLResponse.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLResponse.h
+cCpHeader Source/Framework/MPURLRequestParameter.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPURLRequestParameter.h
+cCopyPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/oauthAutoConfig.plist Resources/oauthAutoConfig.plist
+cProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/MPOAuth normal x86_64
+cTouch /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052C59F1F000000000000044C
+t1388683039
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C59F1F00000000000001DB
+t1388683039
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c0000000052C59F1F00000000002682C8
+t1388683039
+s2523848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c0000000052C59F1F0000000000007D5C
+t1388683039
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c0000000052C59F1F0000000000020D64
+t1388683039
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c0000000052C59F1F000000000001B3B8
+t1388683039
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c0000000052C59F200000000000034F94
+t1388683040
+s216980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c0000000052C59F20000000000000CB08
+t1388683040
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c0000000052C59F20000000000002C5F4
+t1388683040
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c0000000052C59F20000000000002B9A8
+t1388683040
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c0000000052C59F200000000000011EF8
+t1388683040
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052C59F200000000000059898
+t1388683040
+s366744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052C59F200000000000085C78
+t1388683040
+s547960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052C59F20000000000008B2C4
+t1388683040
+s570052
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000052C59F20000000000000979C
+t1388683040
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c0000000052C59F2000000000000223B4
+t1388683040
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c0000000052C59F200000000000071A98
+t1388683040
+s465560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c0000000052C59F200000000000017E1C
+t1388683040
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c0000000052C59F20000000000004F094
+t1388683040
+s323732
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c0000000052C59F20000000000003AA44
+t1388683040
+s240196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c0000000052C59F2000000000000383CC
+t1388683040
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c0000000052C59F20000000000001B66C
+t1388683040
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052C59F200000000000030444
+t1388683040
+s197700
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052C59F2100000000000C9E68
+t1388683041
+s826984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c0000000052C59F2100000000000394F8
+t1388683041
+s234744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052C59F240000000000076260
+t1388683044
+s483936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX.h
+c0000000052C59F2700000000000010F5
+t1388683047
+s4341
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX2.h
+c0000000052C59F27000000000000130E
+t1388683047
+s4878
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/dict.h
+c0000000052C59F270000000000000732
+t1388683047
+s1842
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/encoding.h
+c0000000052C59F27000000000000208C
+t1388683047
+s8332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/entities.h
+c0000000052C59F27000000000000125F
+t1388683047
+s4703
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/globals.h
+c0000000052C59F27000000000000393B
+t1388683047
+s14651
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/hash.h
+c0000000052C59F27000000000000195C
+t1388683047
+s6492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/list.h
+c0000000052C59F270000000000000D26
+t1388683047
+s3366
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/parser.h
+c0000000052C59F270000000000009B27
+t1388683047
+s39719
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/threads.h
+c0000000052C59F27000000000000073C
+t1388683047
+s1852
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/tree.h
+c0000000052C59F2700000000000093D3
+t1388683047
+s37843
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/valid.h
+c0000000052C59F270000000000003536
+t1388683047
+s13622
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xlink.h
+c0000000052C59F2700000000000013B0
+t1388683047
+s5040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlIO.h
+c0000000052C59F270000000000002977
+t1388683047
+s10615
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlautomata.h
+c0000000052C59F270000000000000F74
+t1388683047
+s3956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlerror.h
+c0000000052C59F270000000000008FC3
+t1388683047
+s36803
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlexports.h
+c0000000052C59F270000000000000F50
+t1388683047
+s3920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlmemory.h
+c0000000052C59F270000000000001739
+t1388683047
+s5945
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlregexp.h
+c0000000052C59F270000000000001552
+t1388683047
+s5458
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlstring.h
+c0000000052C59F27000000000000155D
+t1388683047
+s5469
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlversion.h
+c0000000052C59F270000000000001F2B
+t1388683047
+s7979
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xpath.h
+c0000000052C59F27000000000000400E
+t1388683047
+s16398
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c0000000052C59F270000000000004B99
+t1388683047
+s19353
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c0000000052C59F28000000000000681C
+t1388683048
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+c0000000052C59F280000000000014EF8
+t1388683048
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libxml2.dylib
+c0000000052C59F28000000000003A860
+t1388683048
+s239712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c0000000052C59F280000000000004734
+t1388683048
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052C59F28000000000000FC6C
+t1388683048
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052C59F28000000000000F6A0
+t1388683048
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052C59F280000000000006254
+t1388683048
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052C59F28000000000000E0F8
+t1388683048
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c0000000052C59F28000000000000D6DC
+t1388683048
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c0000000052C59F280000000000006308
+t1388683048
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c0000000052C59F280000000000004050
+t1388683048
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c0000000052C59F280000000000008570
+t1388683048
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c0000000052C59F280000000000005EA0
+t1388683048
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c0000000052C59F280000000000005FAC
+t1388683048
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c0000000052C59F280000000000004440
+t1388683048
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052C59F28000000000000AA28
+t1388683048
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000052C59F280000000000003E2C
+t1388683048
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c0000000052C59F280000000000030A24
+t1388683048
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000052C59F280000000000005E54
+t1388683048
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000052C59F280000000000006A90
+t1388683048
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052C59F2800000000000178AC
+t1388683048
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052C59F28000000000001ADC8
+t1388683048
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052C59F28000000000001028C
+t1388683048
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000052C59F280000000000008800
+t1388683048
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052C59F280000000000011090
+t1388683048
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052C59F28000000000000882C
+t1388683048
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000052C59F2800000000000067AC
+t1388683048
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052C59F280000000000008DEC
+t1388683048
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000052C59F280000000000004C08
+t1388683048
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000052C59F2800000000000023C0
+t1388683048
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052C59F28000000000000439C
+t1388683048
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c0000000052C59F280000000000006768
+t1388683048
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c0000000052C59F2800000000000172F4
+t1388683048
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c0000000052C59F520000000000001750
+t1388683090
+s5968
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.o
+t1390627755
+s9420
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuth.LinkFileList
+c0000000052E34BA10000000000000A68
+t1390627745
+s2664
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.o
+t1390627755
+s51800
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.o
+t1390627755
+s42932
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.o
+t1390627755
+s27380
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.o
+t1390627755
+s39200
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.o
+t1390627755
+s45100
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.o
+t1390627755
+s19752
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.o
+t1390627755
+s15448
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.o
+t1390627755
+s16492
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.o
+t1390627755
+s2104
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.o
+t1390627755
+s54164
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.o
+t1390627755
+s18008
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.o
+t1390627755
+s27688
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.o
+t1390627755
+s10552
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.o
+t1390627755
+s26152
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.o
+t1390627755
+s30284
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.o
+t1390627755
+s25112
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.o
+t1390627755
+s10700
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.o
+t1390627755
+s16248
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.o
+t1390627755
+s6568
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.pch
+t1390627755
+s13680484
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.pch
+t1390627754
+s110880
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework
+t1390627758
+s204
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuth.h
+t1390627753
+s553
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPI.h
+t1390627754
+s4112
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPIRequestLoader.h
+t1390627754
+s1669
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethod.h
+t1390627754
+s846
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethodOAuth.h
+t1390627754
+s1559
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthConnection.h
+t1390627754
+s1154
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthCredentialStore.h
+t1390627754
+s1269
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthParameterFactory.h
+t1390627754
+s798
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLRequest.h
+t1390627754
+s868
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLResponse.h
+t1390627754
+s440
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPURLRequestParameter.h
+t1390627754
+s841
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/MPOAuth
+t1390627758
+s163156
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/Info.plist
+t1390627752
+s1034
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/oauthAutoConfig.plist
+t1390627754
+s5831
+
+N/Users/dev/Documents/mpoauthconnection-read-only/MPOAuth-Info.plist
+c0000000052E34B52000000000000027C
+t1390627666
+s636
+
+N/Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch
+c0000000052E34B530000000000000126
+t1390627667
+s294
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Resources/oauthAutoConfig.plist
+c0000000052E34B5400000000000016C7
+t1390627668
+s5831
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c
+c0000000052E34B52000000000000244A
+t1390627666
+s9290
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.h
+c0000000052E34B520000000000000689
+t1390627666
+s1673
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPDebug.h
+c0000000052E34B5300000000000000F1
+t1390627667
+s241
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuth.h
+c0000000052E34B530000000000000229
+t1390627667
+s553
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.h
+c0000000052E34B530000000000001010
+t1390627667
+s4112
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m
+c0000000052E34B53000000000000281D
+t1390627667
+s10269
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.h
+c0000000052E34B530000000000000685
+t1390627667
+s1669
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m
+c0000000052E34B5300000000000020BB
+t1390627667
+s8379
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.h
+c0000000052E34B53000000000000034E
+t1390627667
+s846
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m
+c0000000052E34B530000000000001099
+t1390627667
+s4249
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.h
+c0000000052E34B530000000000000180
+t1390627667
+s384
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m
+c0000000052E34B530000000000000F36
+t1390627667
+s3894
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.h
+c0000000052E34B530000000000000617
+t1390627667
+s1559
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m
+c0000000052E34B530000000000002756
+t1390627667
+s10070
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.h
+c0000000052E34B530000000000000164
+t1390627667
+s356
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m
+c0000000052E34B530000000000000C8A
+t1390627667
+s3210
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.h
+c0000000052E34B530000000000000482
+t1390627667
+s1154
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m
+c0000000052E34B5300000000000008FD
+t1390627667
+s2301
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m
+c0000000052E34B530000000000000CEF
+t1390627667
+s3311
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditions.h
+c0000000052E34B530000000000000215
+t1390627667
+s533
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m
+c0000000052E34B5300000000000013B2
+t1390627667
+s5042
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+c0000000052E34B530000000000000565
+t1390627667
+s1381
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m
+c0000000052E34B53000000000000241B
+t1390627667
+s9243
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+c0000000052E34B5300000000000004F5
+t1390627667
+s1269
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+c0000000052E34B53000000000000031E
+t1390627667
+s798
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.h
+c0000000052E34B530000000000000356
+t1390627667
+s854
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m
+c0000000052E34B530000000000000C15
+t1390627667
+s3093
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.h
+c0000000052E34B530000000000000364
+t1390627667
+s868
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m
+c0000000052E34B5300000000000011D1
+t1390627667
+s4561
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.h
+c0000000052E34B5300000000000001B8
+t1390627667
+s440
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m
+c0000000052E34B530000000000000292
+t1390627667
+s658
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+c0000000052E34B530000000000000349
+t1390627667
+s841
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m
+c0000000052E34B530000000000001129
+t1390627667
+s4393
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.h
+c0000000052E34B530000000000000515
+t1390627667
+s1301
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m
+c0000000052E34B53000000000000112F
+t1390627667
+s4399
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.h
+c0000000052E34B530000000000000286
+t1390627667
+s646
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m
+c0000000052E34B530000000000000860
+t1390627667
+s2144
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.h
+c0000000052E34B5300000000000001EF
+t1390627667
+s495
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m
+c0000000052E34B53000000000000076E
+t1390627667
+s1902
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.h
+c0000000052E34B5300000000000001ED
+t1390627667
+s493
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m
+c0000000052E34B530000000000000DE1
+t1390627667
+s3553
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.h
+c0000000052E34B530000000000000111
+t1390627667
+s273
+
+N/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m
+c0000000052E34B530000000000000286
+t1390627667
+s646
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m
+r0
+
+CBuild AST from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2c2cf8a58793b841^baa2f8a58793b841^---0#1#1#--18"Check dependencies36"FD0A1EBB-6329-46AD-A844-2CF467C12F9D-
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.407146
+e412320555.460982
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c234"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.o Source/Framework/Crypto/Base64Transcoder.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler876c682b8393b841^eb02762b8393b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c0000000000000000^2808"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.o Source/Framework/Crypto/Base64Transcoder.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.c -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.o36"DAC1AB04-AEA9-47A3-93A2-C251FF17D020-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.407756
+e412320555.471385
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m225"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.o Source/Framework/MPOAuthAPI.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b89682b8393b841^81af782b8393b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m0000000000000000^2971"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.o Source/Framework/MPOAuthAPI.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.o36"EFE372CF-EFCE-4AC8-AC7E-BBD20FEBBAEB-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.461404
+e412320555.591437
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m251"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.o Source/Framework/MPOAuthAPIRequestLoader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compileref3b762b8393b841^8869972b8393b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m0000000000000000^3049"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.o Source/Framework/MPOAuthAPIRequestLoader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.o36"22EAF4A3-46E6-4ED0-BDFA-827289C1840F-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.471638
+e412320555.548268
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m259"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.o Source/Framework/MPOAuthAuthenticationMethod.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ccf782b8393b841^295f8c2b8393b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m0000000000000000^3073"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.o Source/Framework/MPOAuthAuthenticationMethod.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.o36"B39E361C-4474-4301-9A8E-62EF8903B478-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.548728
+e412320555.650925
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/parser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlversion.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlexports.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/tree.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlstring.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlregexp.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/dict.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/hash.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/valid.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlerror.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/list.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlautomata.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/entities.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/encoding.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlIO.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/globals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xlink.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX2.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlmemory.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/threads.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xpath.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xpathInternals.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m283"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.o Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d9d8c2b8393b841^a4a5a62b8393b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m0000000000000000^3145"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.o Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodAuthExchange.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.o36"3D608A94-B1CB-4BA1-9E0C-A5A0AFDC0674-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.591974
+e412320555.651358
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m269"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.o Source/Framework/MPOAuthAuthenticationMethodOAuth.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilereaaf972b8393b841^87bfa62b8393b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m0000000000000000^3103"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.o Source/Framework/MPOAuthAuthenticationMethodOAuth.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.o36"503B6511-2797-4CF0-BD4E-C8EA40FD86AD-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.885927
+e412320555.958482
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m269"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.o Source/Framework/MPOAuthAuthenticationMethodXAuth.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerabe9e22b8393b841^5260f52b8393b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m0000000000000000^3103"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.o Source/Framework/MPOAuthAuthenticationMethodXAuth.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodXAuth.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.o36"EF3F0603-9F8C-44D8-82D6-409747A8E982-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.651290
+e412320555.684684
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+o/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m:43:16: warning: incompatible pointer types assigning to 'MPOAuthCredentialConcreteStore *' from 'NSObject<MPOAuthCredentialStore,MPOAuthParameterFactory> *' [-Wincompatible-pointer-types]
+o                _credentials = [inCredentials retain];
+o                             ^ ~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m:1:
+oIn file included from /Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:55:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPropertyList.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/dispatch/dispatch.h:48:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/objc/NSObject.h:35:1: note: instance method 'retain' is assumed to return an instance of its receiver type ('NSObject<MPOAuthCredentialStore,MPOAuthParameterFactory> *')
+o- (id)retain OBJC_ARC_UNAVAILABLE;
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m239"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.o Source/Framework/MPOAuthConnection.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1bd4a62b8393b841^6746af2b8393b841^-2215"/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m:43:16: warning: incompatible pointer types assigning to 'MPOAuthCredentialConcreteStore *' from 'NSObject<MPOAuthCredentialStore,MPOAuthParameterFactory> *' [-Wincompatible-pointer-types]                _credentials = [inCredentials retain];                             ^ ~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m:1:In file included from /Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:55:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPropertyList.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/dispatch/dispatch.h:48:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/objc/NSObject.h:35:1: note: instance method 'retain' is assumed to return an instance of its receiver type ('NSObject<MPOAuthCredentialStore,MPOAuthParameterFactory> *')- (id)retain OBJC_ARC_UNAVAILABLE;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@140"Incompatible pointer types assigning to 'MPOAuthCredentialConcreteStore *' from 'NSObject<MPOAuthCredentialStore,MPOAuthParameterFactory> *'-412320555#18446744073709551615#0#1(2@141"Instance method 'retain' is assumed to return an instance of its receiver type ('NSObject<MPOAuthCredentialStore,MPOAuthParameterFactory> *')-412320555#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@133"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/objc/NSObject.h0000000000000000^34#0#34#0#774#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@92"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m0000000000000000^42#15#42#15#2120#0#14"Semantic Issue1(3@92"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m0000000000000000^42#17#42#39#2122#21#-0#0#1#-19%DVTDocumentLocation4@92"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m0000000000000000^3013"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.o Source/Framework/MPOAuthConnection.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.o36"D8557C84-9FC6-454E-8CA3-2015D016CDDA-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.651599
+e412320555.682293
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditions.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m307"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.o Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere7e3a62b8393b841^daacae2b8393b841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m0000000000000000^3217"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.o Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.o36"BFFE6B02-C7DD-45A7-8BD1-B4BFF8659CAF-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.682544
+e412320555.740206
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditions.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+o/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m:112:8: warning: extra tokens at end of #endif directive [-Wextra-tokens]
+o#endif TARGET_OS_IPHONE
+o       ^
+o       //
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m313"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.o Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler39d1ae2b8393b841^787ebd2b8393b841^-260"/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m:112:8: warning: extra tokens at end of #endif directive [-Wextra-tokens]#endif TARGET_OS_IPHONE       ^       //1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@39"Extra tokens at end of #endif directive-412320555#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@129"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m0000000000000000^111#7#111#7#5025#0#29"Lexical or Preprocessor Issue1(3@129"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m0000000000000000^111#7#111#7#5025#0#-0#0#1#-19%DVTDocumentLocation4@129"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m0000000000000000^3235"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.o Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.o36"B53E12F9-5D16-4654-8E00-323E4E6F8D79-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.684893
+e412320555.736546
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore+KeychainAdditions.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.h
+o/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m:191:41: warning: invalid conversion specifier '&' [-Wformat-invalid-specifier]
+o        return [NSString stringWithFormat:@"%@%&%@", consumerSecret, tokenSecret];
+o                                              ~^
+o/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m:191:43: warning: more '%' conversions than data arguments [-Wformat]
+o        return [NSString stringWithFormat:@"%@%&%@", consumerSecret, tokenSecret];
+o                                                ~^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m265"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.o Source/Framework/MPOAuthCredentialConcreteStore.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d68af2b8393b841^5c8dbc2b8393b841^-634"/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m:191:41: warning: invalid conversion specifier '&' [-Wformat-invalid-specifier]        return [NSString stringWithFormat:@"%@%&%@", consumerSecret, tokenSecret];                                              ~^/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m:191:43: warning: more '%' conversions than data arguments [-Wformat]        return [NSString stringWithFormat:@"%@%&%@", consumerSecret, tokenSecret];                                                ~^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@32"Invalid conversion specifier '&'-412320555#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@105"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m0000000000000000^190#40#190#40#6064#0#19"Format String Issue1(3@105"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m0000000000000000^190#39#190#41#6063#2#-2@40"More '%' conversions than data arguments-412320555#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m0000000000000000^190#42#190#42#6066#0#19"Format String Issue1(3@105"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m0000000000000000^190#41#190#43#6065#2#-0#0#1#-19%DVTDocumentLocation4@105"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m0000000000000000^3091"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.o Source/Framework/MPOAuthCredentialConcreteStore.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialConcreteStore.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.o36"1028816B-2764-4F09-90CF-858D8BF6EEB4-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.736803
+e412320555.771855
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/Crypto/Base64Transcoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m255"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.o Source/Framework/MPOAuthSignatureParameter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler07b4bc2b8393b841^5b98c52b8393b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m0000000000000000^3061"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.o Source/Framework/MPOAuthSignatureParameter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.o36"407A7980-7222-4BF4-8968-C21374A8A552-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.740462
+e412320555.773737
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthSignatureParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m239"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.o Source/Framework/MPOAuthURLRequest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler15a8bd2b8393b841^9013c62b8393b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m0000000000000000^3013"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.o Source/Framework/MPOAuthURLRequest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.o36"10030DF5-1D8E-4ED3-84CF-2CDEAA103499-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.772088
+e412320555.800479
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m241"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.o Source/Framework/MPOAuthURLResponse.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdbc0c52b8393b841^24efcc2b8393b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m0000000000000000^3019"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.o Source/Framework/MPOAuthURLResponse.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.o36"17607B64-3A0B-423D-B202-7F0CE0AF2075-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.773995
+e412320555.808338
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m247"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.o Source/Framework/MPURLRequestParameter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilereb38c62b8393b841^d4efce2b8393b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m0000000000000000^3037"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.o Source/Framework/MPURLRequestParameter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.o36"A3C61484-2299-4621-969A-7566BAF6AEB2-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.800747
+e412320555.840350
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m239"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.o Source/Framework/MPWSLRDDiscoverer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdc12cd2b8393b841^dd23d72b8393b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m0000000000000000^3013"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.o Source/Framework/MPWSLRDDiscoverer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSLRDDiscoverer.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.o36"EF9273B0-9ED3-42FE-B578-FF767B754BD4-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.808638
+e412320555.857548
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/parser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlversion.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlexports.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/tree.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlstring.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlregexp.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/dict.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/hash.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/valid.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlerror.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/list.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlautomata.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/entities.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/encoding.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlIO.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/globals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xlink.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX2.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlmemory.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/threads.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xpathInternals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xpath.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m235"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.o Source/Framework/MPWSXRDDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe17cf2b8393b841^b589db2b8393b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m0000000000000000^3001"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.o Source/Framework/MPWSXRDDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPWSXRDDocument.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.o36"681B803F-37CE-4942-969D-71B6D868133F-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.840619
+e412320555.865430
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m263"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.o Source/Framework/NSString+URLEscapingAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b48d72b8393b841^508fdd2b8393b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m0000000000000000^3085"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.o Source/Framework/NSString+URLEscapingAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.o36"727F223E-937C-4F58-9142-82886577D701-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.857836
+e412320555.888007
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSString+URLEscapingAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m263"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.o Source/Framework/NSURL+MPURLParameterAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler70b0db2b8393b841^0c57e32b8393b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m0000000000000000^3085"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.o Source/Framework/NSURL+MPURLParameterAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURL+MPURLParameterAdditions.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.o36"8B741BB5-D244-4FC2-938A-B53FAD8C0BAE-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.o /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320555.865667
+e412320555.885660
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.o
+x/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m249"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.o Source/Framework/NSURLResponse+Encoding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler75b1dd2b8393b841^90bde22b8393b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m0000000000000000^3043"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.o Source/Framework/NSURLResponse+Encoding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.dia -c /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/NSURLResponse+Encoding.m -o /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.o36"D87D2430-772C-459D-AC78-5066C3914398-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCopyPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/oauthAutoConfig.plist Resources/oauthAutoConfig.plist
+s412320554.483726
+e412320554.530827
+r1
+xCopyPlistFile
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/oauthAutoConfig.plist
+xResources/oauthAutoConfig.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Resources/oauthAutoConfig.plist155"CopyPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/oauthAutoConfig.plist Resources/oauthAutoConfig.plist8fe37b2a8393b841^bde4872a8393b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/dev/Documents/mpoauthconnection-read-only/Resources/oauthAutoConfig.plist0000000000000000^366"CopyPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/oauthAutoConfig.plist Resources/oauthAutoConfig.plist    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copyPlist --outdir /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources -- Resources/oauthAutoConfig.plist36"E6FA71B3-533B-4310-8DEF-2E997196AC7B-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuth.h
+s412320553.851539
+e412320553.859452
+r1
+xCpHeader
+xSource/Framework/MPOAuth.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuth.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuth.h131"CpHeader Source/Framework/MPOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuth.h960ada298393b841^d106dc298393b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuth.h0034108edfffdf42^462"CpHeader Source/Framework/MPOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuth.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"C0512FC4-D480-4497-9814-31F2DD6891D9-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthAPI.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPI.h
+s412320554.430906
+e412320554.431793
+r1
+xCpHeader
+xSource/Framework/MPOAuthAPI.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPI.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPI.h137"CpHeader Source/Framework/MPOAuthAPI.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPI.hf25d6e2a8393b841^1a8b6e2a8393b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPI.h0034108edfffdf42^471"CpHeader Source/Framework/MPOAuthAPI.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPI.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPI.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"9C4B6197-64B4-4F78-A31A-3EAF1EADBFB9-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthAPIRequestLoader.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPIRequestLoader.h
+s412320554.473436
+e412320554.474829
+r1
+xCpHeader
+xSource/Framework/MPOAuthAPIRequestLoader.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPIRequestLoader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPIRequestLoader.h163"CpHeader Source/Framework/MPOAuthAPIRequestLoader.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPIRequestLoader.h8445792a8393b841^2e8f792a8393b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPIRequestLoader.h0034108edfffdf42^510"CpHeader Source/Framework/MPOAuthAPIRequestLoader.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAPIRequestLoader.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAPIRequestLoader.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"09AECC75-B773-41E5-BD77-0DF4F87D9EDD-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthAuthenticationMethod.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethod.h
+s412320554.475099
+e412320554.476235
+r1
+xCpHeader
+xSource/Framework/MPOAuthAuthenticationMethod.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethod.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethod.h171"CpHeader Source/Framework/MPOAuthAuthenticationMethod.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethod.habb0792a8393b841^eeea792a8393b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethod.h0034108edfffdf42^522"CpHeader Source/Framework/MPOAuthAuthenticationMethod.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethod.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethod.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"F47B9881-363C-46FD-9823-674B65EAE8FF-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthAuthenticationMethodOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethodOAuth.h
+s412320554.476522
+e412320554.477569
+r1
+xCpHeader
+xSource/Framework/MPOAuthAuthenticationMethodOAuth.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethodOAuth.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethodOAuth.h181"CpHeader Source/Framework/MPOAuthAuthenticationMethodOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethodOAuth.h12117a2a8393b841^c0427a2a8393b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethodOAuth.h0034108edfffdf42^537"CpHeader Source/Framework/MPOAuthAuthenticationMethodOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthAuthenticationMethodOAuth.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthAuthenticationMethodOAuth.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"C9BF13E6-C8BB-4070-B0D7-93DED91D203F-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthConnection.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthConnection.h
+s412320554.477731
+e412320554.478506
+r1
+xCpHeader
+xSource/Framework/MPOAuthConnection.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthConnection.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthConnection.h151"CpHeader Source/Framework/MPOAuthConnection.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthConnection.hfb5b7a2a8393b841^a27f7a2a8393b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthConnection.h0034108edfffdf42^492"CpHeader Source/Framework/MPOAuthConnection.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthConnection.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthConnection.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"3055AE98-4159-47E9-B207-53D9C7DEAE23-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthCredentialStore.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthCredentialStore.h
+s412320554.478646
+e412320554.479329
+r1
+xCpHeader
+xSource/Framework/MPOAuthCredentialStore.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthCredentialStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthCredentialStore.h161"CpHeader Source/Framework/MPOAuthCredentialStore.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthCredentialStore.h64957a2a8393b841^5bb67a2a8393b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthCredentialStore.h0034108edfffdf42^507"CpHeader Source/Framework/MPOAuthCredentialStore.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthCredentialStore.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthCredentialStore.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"882BA155-A575-4C47-862D-40491DBBDAF7-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthParameterFactory.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthParameterFactory.h
+s412320554.479452
+e412320554.480327
+r1
+xCpHeader
+xSource/Framework/MPOAuthParameterFactory.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthParameterFactory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthParameterFactory.h163"CpHeader Source/Framework/MPOAuthParameterFactory.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthParameterFactory.h60cc7a2a8393b841^b1f77a2a8393b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthParameterFactory.h0034108edfffdf42^510"CpHeader Source/Framework/MPOAuthParameterFactory.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthParameterFactory.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthParameterFactory.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"27E0FD8C-4AAF-44C4-9718-28F675AD923E-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthURLRequest.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLRequest.h
+s412320554.480477
+e412320554.481339
+r1
+xCpHeader
+xSource/Framework/MPOAuthURLRequest.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLRequest.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLRequest.h151"CpHeader Source/Framework/MPOAuthURLRequest.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLRequest.ha20e7b2a8393b841^d2397b2a8393b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLRequest.h0034108edfffdf42^492"CpHeader Source/Framework/MPOAuthURLRequest.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLRequest.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLRequest.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"6D6054B3-3C76-48FA-9B22-EC271C6FD3D6-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPOAuthURLResponse.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLResponse.h
+s412320554.481483
+e412320554.482299
+r1
+xCpHeader
+xSource/Framework/MPOAuthURLResponse.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLResponse.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLResponse.h153"CpHeader Source/Framework/MPOAuthURLResponse.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLResponse.h5d507b2a8393b841^cd787b2a8393b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLResponse.h0034108edfffdf42^495"CpHeader Source/Framework/MPOAuthURLResponse.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPOAuthURLResponse.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPOAuthURLResponse.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"92A993F4-5E7C-4C6C-860A-46B7015C0386-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CCpHeader Source/Framework/MPURLRequestParameter.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPURLRequestParameter.h
+s412320554.482446
+e412320554.483217
+r1
+xCpHeader
+xSource/Framework/MPURLRequestParameter.h
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPURLRequestParameter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPURLRequestParameter.h159"CpHeader Source/Framework/MPURLRequestParameter.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPURLRequestParameter.h698f7b2a8393b841^4ab57b2a8393b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPURLRequestParameter.h0034108edfffdf42^504"CpHeader Source/Framework/MPURLRequestParameter.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers/MPURLRequestParameter.h    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPURLRequestParameter.h /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Headers36"34066884-3F72-48F8-86E7-677EC06E8937-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CLd /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/MPOAuth normal x86_64
+s412320555.960707
+e412320558.406023
+r1
+xLd
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/MPOAuth
+xnormal
+xx86_64
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuth.LinkFileList
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/Base64Transcoder.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPI.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAPIRequestLoader.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethod.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodAuthExchange.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodOAuth.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthConnection.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentiaIConcreteStore+KeychainAdditionsMac.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore+KeychainAdditionsiPhone.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthCredentialConcreteStore.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthSignatureParameter.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLRequest.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthURLResponse.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPURLRequestParameter.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSLRDDiscoverer.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPWSXRDDocument.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSString+URLEscapingAdditions.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURL+MPURLParameterAdditions.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/NSURLResponse+Encoding.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuthAuthenticationMethodXAuth.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libxml2.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/MPOAuth102"Ld /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/MPOAuth normal x86_6482fff52b8393b841^bff3672e8393b841^---0#0#1#--1178"Ld /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/MPOAuth normal x86_64    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/dev/Documents/Apollo/Build/Products/Debug -F/Users/dev/Documents/Apollo/Build/Products/Debug -filelist /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuth.LinkFileList -install_name @executable_path/../Frameworks/MPOAuth.framework/Versions/A/MPOAuth -mmacosx-version-min=10.9 -framework Foundation -framework AppKit -fobjc-link-runtime -lxml2 -framework Security -single_module -compatibility_version 1 -current_version 1 -Xlinker -dependency_info -Xlinker /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/Objects-normal/x86_64/MPOAuth_dependency_info.dat -o /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/MPOAuth36"09B9173A-010E-40CA-BAF6-D667B6089388-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CProcessInfoPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/Info.plist /Users/dev/Documents/mpoauthconnection-read-only/MPOAuth-Info.plist
+s412320552.898845
+e412320552.946167
+r1
+xProcessInfoPlistFile
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/Info.plist
+x/Users/dev/Documents/mpoauthconnection-read-only/MPOAuth-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Process /Users/dev/Documents/mpoauthconnection-read-only/MPOAuth-Info.plist138"ProcessInfoPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/Info.plist MPOAuth-Info.plist5039e6288393b841^9b3bf2288393b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/dev/Documents/mpoauthconnection-read-only/MPOAuth-Info.plist0000000000000000^432"ProcessInfoPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/Info.plist MPOAuth-Info.plist    cd /Users/dev/Documents/mpoauthconnection-read-only    builtin-infoPlistUtility /Users/dev/Documents/mpoauthconnection-read-only/MPOAuth-Info.plist -expandbuildsettings -platform macosx -o /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework/Versions/A/Resources/Info.plist36"C6FAC41B-4BDC-406C-822F-16DB128D1D53-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412320554.531756
+e412320555.405659
+r1
+xProcessPCH
+x/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.pch
+xMPOAuthConnection_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch
+d/Users/dev/Documents/mpoauthconnection-read-only/Source/Framework/MPDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile MPOAuthConnection_Prefix.pch263"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7a35882a8393b841^83da672b8393b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch0000000000000000^2963"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.d -c /Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch -o /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-fskxhcoohbhrkpevqadbwyasezop/MPOAuthConnection_Prefix.pch.pch36"9056010C-D1B9-4E67-BEDC-46CC766116D8-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s412320554.531441
+e412320554.575320
+r1
+xProcessPCH
+x/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.pch
+xMPOAuthConnection_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile MPOAuthConnection_Prefix.pch253"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler3e20882a8393b841^9148932a8393b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch0000000000000000^2750"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/mpoauthconnection-read-only    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/MPOAuth-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/MPOAuth.build/Debug/MPOAuth.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.d -c /Users/dev/Documents/mpoauthconnection-read-only/MPOAuthConnection_Prefix.pch -o /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/MPOAuthConnection_Prefix-gurfrnlccqltvlbgktrbzkjrmdym/MPOAuthConnection_Prefix.pch.pch36"08F7EF31-1872-4B37-AAFD-E94FEDB3E0D1-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/Apollo-hipmmsdgwqjewdbsfacbzdkjjhyd/Index/PrecompiledHeaders/MPOAuthConnection_Prefix-ckqeowvunguochbktbrckvkamnjg_ast/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/Apollo-hipmmsdgwqjewdbsfacbzdkjjhyd/Index/PrecompiledHeaders/MPOAuthConnection_Prefix-cvwqloqdwpebxnaaotkdkifejtok_ast/MPOAuthConnection_Prefix.pch.pch MPOAuthConnection_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework
+s412320558.409030
+e412320558.450199
+r1
+xTouch
+x/Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Touch /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework72"Touch /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.frameworkf3c7682e8393b841^2043732e8393b841^---0#0#1#--218"Touch /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework    cd /Users/dev/Documents/mpoauthconnection-read-only    /usr/bin/touch -c /Users/dev/Documents/Apollo/Build/Products/Debug/MPOAuth.framework36"BD3C4DF3-CD79-4AAB-8C3F-4B1D23BFB021-
+b01B40AD7-8A19-491F-AA5C-5F5348A01A38
+

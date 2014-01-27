@@ -1,0 +1,657 @@
+TRdio
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Info.plist /Users/dev/Downloads/rdio-framework-master/Resources/Info.plist
+cCopyStringsFile /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/English.lproj/InfoPlist.strings Resources/English.lproj/InfoPlist.strings
+cCpResource Configurations/Common.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Common.xcconfig
+cCpResource Configurations/Debug.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Debug.xcconfig
+cCpResource Configurations/Release.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Release.xcconfig
+cProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.pch Rdio_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.o /Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.o /Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.o /Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.o /Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.o /Users/dev/Downloads/rdio-framework-master/Source/RDObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.o /Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.o /Users/dev/Downloads/rdio-framework-master/Source/RDError.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.o /Users/dev/Downloads/rdio-framework-master/Source/RDUser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.o /Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.o /Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.o /Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.o /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.o /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Rdio normal x86_64
+cTouch /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052C59F1F000000000000044C
+t1388683039
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C59F1F00000000000001DB
+t1388683039
+s475
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052B4AC7E00000000000066C0
+t1387572350
+s26304
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.pch
+t1390634174
+s13683008
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.o
+t1390634175
+s29120
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.o
+t1390634175
+s21824
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.o
+t1390634175
+s72448
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.o
+t1390634175
+s41100
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.o
+t1390634175
+s5848
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.o
+t1390634175
+s5216
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.o
+t1390634175
+s4548
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.o
+t1390634175
+s14840
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.o
+t1390634175
+s17016
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.o
+t1390634175
+s53276
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.o
+t1390634175
+s3648
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.o
+t1390634175
+s86780
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.o
+t1390634175
+s74248
+
+N/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/Rdio.LinkFileList
+c0000000052E364B700000000000005B1
+t1390634167
+s1457
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework
+t1390634167
+s170
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Rdio
+t1390634176
+s174652
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Common.xcconfig
+t1390634167
+s2091
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Debug.xcconfig
+t1390634167
+s1837
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1390634167
+s92
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Info.plist
+t1390634167
+s1132
+
+N/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Release.xcconfig
+t1390634167
+s1821
+
+N/Users/dev/Downloads/rdio-framework-master/Configurations/Common.xcconfig
+c000000004E885D8A000000000000082B
+t1317559690
+s2091
+
+N/Users/dev/Downloads/rdio-framework-master/Configurations/Debug.xcconfig
+c000000004E885D8A000000000000072D
+t1317559690
+s1837
+
+N/Users/dev/Downloads/rdio-framework-master/Configurations/Release.xcconfig
+c000000004E885D8A000000000000071D
+t1317559690
+s1821
+
+N/Users/dev/Downloads/rdio-framework-master/Rdio_Prefix.pch
+c000000004E885D8A000000000000008C
+t1317559690
+s140
+
+N/Users/dev/Downloads/rdio-framework-master/Resources/English.lproj/InfoPlist.strings
+c000000004E885D8A0000000000000030
+t1317559690
+s48
+
+N/Users/dev/Downloads/rdio-framework-master/Resources/Info.plist
+c000000004E885D8A0000000000000356
+t1317559690
+s854
+
+N/Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m
+c000000004E885D8A000000000000294B
+t1317559690
+s10571
+
+N/Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m
+c000000004E885D8A00000000000010AA
+t1317559690
+s4266
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m
+c000000004E885D8A0000000000003D1B
+t1317559690
+s15643
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m
+c000000004E885D8A0000000000002318
+t1317559690
+s8984
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m
+c000000004E885D8A00000000000006A7
+t1317559690
+s1703
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m
+c000000004E885D8A00000000000006AA
+t1317559690
+s1706
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m
+c000000004E885D8A0000000000000819
+t1317559690
+s2073
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDError.m
+c000000004E885D8A0000000000000BFF
+t1317559690
+s3071
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDObject.m
+c000000004E885D8A0000000000000D5C
+t1317559690
+s3420
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m
+c000000004E885D8A0000000000002E78
+t1317559690
+s11896
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m
+c000000004E885D8A000000000000079E
+t1317559690
+s1950
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m
+c000000004E885D8A0000000000004963
+t1317559690
+s18787
+
+N/Users/dev/Downloads/rdio-framework-master/Source/RDUser.m
+c000000004E885D8A0000000000004076
+t1317559690
+s16502
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDError.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDObject.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m
+r0
+
+CBuild AST from /Users/dev/Downloads/rdio-framework-master/Source/RDUser.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies128635379c93b841^fc1a59379c93b841^---0#1#1#--18"Check dependencies36"EF566FD7-ED9E-4E87-ADC9-F8ECAF74DE73-
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.o /Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.135047
+e412326975.510023
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.o
+x/Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m
+d/Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.h
+d/Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m219"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.o Source/LPServiceClient.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compileraab7223f9c93b841^5391823f9c93b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m0000000000000000^2845"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.o Source/LPServiceClient.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.dia -c /Users/dev/Downloads/rdio-framework-master/Source/LPServiceClient.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.o36"0A486126-4D6F-46EF-9C5D-1DF89DC83F01-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.o /Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.135422
+e412326975.519914
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.o
+x/Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m
+d/Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m221"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.o Source/LPServiceRequest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd1cd223f9c93b841^8b19853f9c93b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m0000000000000000^2851"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.o Source/LPServiceRequest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.dia -c /Users/dev/Downloads/rdio-framework-master/Source/LPServiceRequest.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.o36"B12D686B-F905-4F14-B8F1-DED5C555C1F9-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.o /Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.521117
+e412326975.583321
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m203"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.o Source/RDAlbum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc87b853f9c93b841^2657953f9c93b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m0000000000000000^2797"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.o Source/RDAlbum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.o36"1373B4CC-FB22-45D8-93FE-26E6800BE517-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.o /Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.408930
+e412326975.520875
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDArtist.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m205"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.o Source/RDArtist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9acc683f9c93b841^0c59853f9c93b841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m0000000000000000^2803"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.o Source/RDArtist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDArtist.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.o36"6A385EEC-9935-4C03-A6DF-F6101C331ECD-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.o /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.583678
+e412326975.638851
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDAlbum.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m223"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.o Source/RDCollectionAlbum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerae81953f9c93b841^8a8fa33f9c93b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m0000000000000000^2857"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.o Source/RDCollectionAlbum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionAlbum.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.o36"0E775724-264E-40DD-AAA3-8FD067EA1543-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.o /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.589750
+e412326975.638878
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDArtist.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m225"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.o Source/RDCollectionArtist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf50e973f9c93b841^c096a33f9c93b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m0000000000000000^2863"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.o Source/RDCollectionArtist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDCollectionArtist.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.o36"61A43D05-B9F7-4287-8ABD-D83A0F14F972-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.o /Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.135872
+e412326975.408722
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m211"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.o Source/RDConstants.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler28f0223f9c93b841^a9a2683f9c93b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m0000000000000000^2821"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.o Source/RDConstants.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDConstants.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.o36"667CFAAD-2452-415B-B3C5-4FC2D446A02E-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.o /Users/dev/Downloads/rdio-framework-master/Source/RDError.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.506214
+e412326975.540633
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDError.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDError.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDError.m203"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.o Source/RDError.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbdac813f9c93b841^cf698a3f9c93b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/dev/Downloads/rdio-framework-master/Source/RDError.m0000000000000000^2797"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.o Source/RDError.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDError.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.o36"2C2F84A5-A630-47E2-8585-F17E032E0F27-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.o /Users/dev/Downloads/rdio-framework-master/Source/RDObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.408673
+e412326975.505937
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDObject.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDObject.m205"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.o Source/RDObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7fbf683f9c93b841^d787813f9c93b841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/dev/Downloads/rdio-framework-master/Source/RDObject.m0000000000000000^2803"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.o Source/RDObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDObject.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.o36"9175914C-32EE-430E-87ED-A66F1BB74A2B-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.o /Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.540886
+e412326975.595895
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m209"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.o Source/RDPlaylist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler158c8a3f9c93b841^478e983f9c93b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m0000000000000000^2815"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.o Source/RDPlaylist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDPlaylist.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.o36"947ADFD3-C67A-45D9-95E2-1C0D944960AD-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.o /Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.136341
+e412326975.408272
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m217"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.o Source/RDServiceError.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c07233f9c93b841^8484683f9c93b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m0000000000000000^2839"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.o Source/RDServiceError.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDServiceError.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.o36"BF0F0D7C-839B-45FE-B190-A2E2DCAFE6BF-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.o /Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.520217
+e412326975.600538
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDTrack.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m203"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.o Source/RDTrack.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8944853f9c93b841^f9bd993f9c93b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m0000000000000000^2797"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.o Source/RDTrack.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDTrack.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.o36"8A76BE0E-6105-4E86-B7D0-BF27D5ADA599-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.o /Users/dev/Downloads/rdio-framework-master/Source/RDUser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326975.510304
+e412326975.589493
+r1
+xCompileC
+x/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.o
+x/Users/dev/Downloads/rdio-framework-master/Source/RDUser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Source/RDUser.m
+d/Users/dev/Downloads/rdio-framework-master/Source/RDUser.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDObject.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDConstants.h
+d/Users/dev/Downloads/rdio-framework-master/Source/RDTrack.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/dev/Downloads/rdio-framework-master/Source/RDUser.m201"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.o Source/RDUser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbabb823f9c93b841^e6eb963f9c93b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/dev/Downloads/rdio-framework-master/Source/RDUser.m0000000000000000^2791"CompileC /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.o Source/RDUser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug -include /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.d --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.dia -c /Users/dev/Downloads/rdio-framework-master/Source/RDUser.m -o /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.o36"714FE616-A860-4C69-9D22-7D7C38412C01-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCopyStringsFile /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/English.lproj/InfoPlist.strings Resources/English.lproj/InfoPlist.strings
+s412326967.426981
+e412326967.609710
+r1
+xCopyStringsFile
+x/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+xResources/English.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/English.lproj/InfoPlist.strings174"CopyStringsFile /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/English.lproj/InfoPlist.strings Resources/English.lproj/InfoPlist.stringsff5b6d379c93b841^8a1ea0379c93b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dev/Downloads/rdio-framework-master/Resources/English.lproj/InfoPlist.strings0000000000000000^459"CopyStringsFile /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/English.lproj/InfoPlist.strings Resources/English.lproj/InfoPlist.strings    cd /Users/dev/Downloads/rdio-framework-master    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/English.lproj -- Resources/English.lproj/InfoPlist.strings36"B732654A-FA87-4CB6-83FC-E4DAA64CBE17-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCpResource Configurations/Common.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Common.xcconfig
+s412326967.427193
+e412326967.495901
+r1
+xCpResource
+xConfigurations/Common.xcconfig
+x/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Common.xcconfig
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Common.xcconfig142"CpResource Configurations/Common.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Common.xcconfig99676d379c93b841^e8bb9b379c93b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Common.xcconfig0034108edfffdf42^464"CpResource Configurations/Common.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Common.xcconfig    cd /Users/dev/Downloads/rdio-framework-master    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Downloads/rdio-framework-master/Configurations/Common.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources36"9ADDE38E-A650-4F56-8C85-D429625DC350-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCpResource Configurations/Debug.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Debug.xcconfig
+s412326967.427314
+e412326967.496540
+r1
+xCpResource
+xConfigurations/Debug.xcconfig
+x/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Debug.xcconfig
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Debug.xcconfig140"CpResource Configurations/Debug.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Debug.xcconfig93706d379c93b841^f0c19b379c93b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Debug.xcconfig0034108edfffdf42^461"CpResource Configurations/Debug.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Debug.xcconfig    cd /Users/dev/Downloads/rdio-framework-master    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Downloads/rdio-framework-master/Configurations/Debug.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources36"5869119A-B5CB-4A5C-AD89-D2FC686A65C4-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CCpResource Configurations/Release.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Release.xcconfig
+s412326967.427610
+e412326967.497510
+r1
+xCpResource
+xConfigurations/Release.xcconfig
+x/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Release.xcconfig
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Release.xcconfig144"CpResource Configurations/Release.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Release.xcconfigd4806d379c93b841^69c59b379c93b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Release.xcconfig0034108edfffdf42^467"CpResource Configurations/Release.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Release.xcconfig    cd /Users/dev/Downloads/rdio-framework-master    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Downloads/rdio-framework-master/Configurations/Release.xcconfig /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources36"3213AB1F-114F-44B9-AEFE-707DF72B627B-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CLd /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Rdio normal x86_64
+s412326975.641040
+e412326976.805879
+r1
+xLd
+x/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Rdio
+xnormal
+xx86_64
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/Rdio.LinkFileList
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceClient.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/LPServiceRequest.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDConstants.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDServiceError.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDObject.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDArtist.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDError.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDUser.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDTrack.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDAlbum.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDPlaylist.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionAlbum.o
+d/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/RDCollectionArtist.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Link /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Rdio96"Ld /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Rdio normal x86_64e833a43f9c93b841^984fce409c93b841^---0#0#1#--1085"Ld /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Rdio normal x86_64    cd /Users/dev/Downloads/rdio-framework-master    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/dev/Documents/Apollo/Build/Products/Debug -F/Users/dev/Documents/Apollo/Build/Products/Debug -filelist /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/Rdio.LinkFileList -install_name /Users/dev/Library/Frameworks/Rdio.framework/Versions/A/Rdio -mmacosx-version-min=10.9 -fobjc-link-runtime -framework Cocoa -single_module -compatibility_version 1 -current_version 1 -Xlinker -dependency_info -Xlinker /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Objects-normal/x86_64/Rdio_dependency_info.dat -o /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Rdio36"2EC36D97-F8CE-4924-A86A-6D523CC41B1B-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CProcessInfoPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Info.plist /Users/dev/Downloads/rdio-framework-master/Resources/Info.plist
+s412326967.396600
+e412326967.426496
+r1
+xProcessInfoPlistFile
+x/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Info.plist
+x/Users/dev/Downloads/rdio-framework-master/Resources/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Process /Users/dev/Downloads/rdio-framework-master/Resources/Info.plist137"ProcessInfoPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Info.plist Resources/Info.plist17616a379c93b841^3fac9b379c93b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/dev/Downloads/rdio-framework-master/Resources/Info.plist0000000000000000^418"ProcessInfoPlistFile /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Info.plist Resources/Info.plist    cd /Users/dev/Downloads/rdio-framework-master    builtin-infoPlistUtility /Users/dev/Downloads/rdio-framework-master/Resources/Info.plist -expandbuildsettings -platform macosx -o /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework/Versions/A/Resources/Info.plist36"85714B9C-8DA4-4FF4-8375-B8C7F4D6B1F8-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.pch Rdio_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412326967.610496
+e412326975.133682
+r1
+xProcessPCH
+x/Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.pch
+xRdio_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Downloads/rdio-framework-master/Rdio_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"Precompile Rdio_Prefix.pch224"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.pch Rdio_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere485a4379c93b841^153b223f9c93b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/dev/Downloads/rdio-framework-master/Rdio_Prefix.pch0000000000000000^2747"ProcessPCH /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.pch Rdio_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Downloads/rdio-framework-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-generated-files.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-own-target-headers.hmap -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-all-target-headers.hmap -iquote /Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/Rdio-project-headers.hmap -I/Users/dev/Documents/Apollo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources/x86_64 -I/Users/dev/Documents/Apollo/Build/Intermediates/Rdio.build/Debug/Rdio.build/DerivedSources -F/Users/dev/Documents/Apollo/Build/Products/Debug --serialize-diagnostics /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.d -c /Users/dev/Downloads/rdio-framework-master/Rdio_Prefix.pch -o /Users/dev/Documents/Apollo/Build/Intermediates/PrecompiledHeaders/Rdio_Prefix-exwehivzoeoanafnrfzmlalbfmpc/Rdio_Prefix.pch.pch36"305A4327-674A-4D1D-81B6-76F41B72ABBE-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/Apollo-hipmmsdgwqjewdbsfacbzdkjjhyd/Index/PrecompiledHeaders/Rdio_Prefix-ftqcrudiwynzdlgtjerszlmfqtos_ast/Rdio_Prefix.pch.pch Rdio_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework
+s412326976.807912
+e412326976.841271
+r1
+xTouch
+x/Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Touch /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework69"Touch /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework64e6ce409c93b841^3561d7409c93b841^---0#0#1#--206"Touch /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework    cd /Users/dev/Downloads/rdio-framework-master    /usr/bin/touch -c /Users/dev/Documents/Apollo/Build/Products/Debug/Rdio.framework36"894AEBD9-E4FD-4287-B73D-81881B811A43-
+b7D015AA6-7D05-429C-AEFC-12389ECF27F9
+
