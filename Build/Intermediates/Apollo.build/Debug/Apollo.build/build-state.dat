@@ -1,0 +1,419 @@
+TApollo
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.pch Apollo/Apollo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.o /Users/dev/Documents/apollo-mac/Apollo/APLLButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.o /Users/dev/Documents/apollo-mac/Apollo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.o /Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.o /Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.o /Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/MacOS/Apollo normal x86_64
+cCopyStringsFile /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/InfoPlist.strings Apollo/en.lproj/InfoPlist.strings
+cCpResource Apollo/en.lproj/Credits.rtf Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/dev/Documents/apollo-mac/Apollo/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources /Users/dev/Documents/apollo-mac/Apollo/Images.xcassets
+cProcessInfoPlistFile /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Info.plist /Users/dev/Documents/apollo-mac/Apollo/Apollo-Info.plist
+cTouch /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052C59F1F000000000000044C
+t1388683039
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C59F1F00000000000001DB
+t1388683039
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c0000000052C59F1F00000000000088C0
+t1388683039
+s35008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052C59F20000000000000253C
+t1388683040
+s9532
+
+N/Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m
+c0000000052E6F8E2000000000000048F
+t1390868706
+s1167
+
+N/Users/dev/Documents/apollo-mac/Apollo/APLLButton.m
+c0000000052E6F8E20000000000000445
+t1390868706
+s1093
+
+N/Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m
+c0000000052E6F8E200000000000009D5
+t1390868706
+s2517
+
+N/Users/dev/Documents/apollo-mac/Apollo/Apollo-Info.plist
+c0000000052E6F8E2000000000000042F
+t1390868706
+s1071
+
+N/Users/dev/Documents/apollo-mac/Apollo/Apollo-Prefix.pch
+c0000000052E6F8E200000000000000C8
+t1390868706
+s200
+
+N/Users/dev/Documents/apollo-mac/Apollo/Base.lproj/MainMenu.xib
+c0000000052E6F8E200000000000082B3
+t1390868706
+s33459
+
+N/Users/dev/Documents/apollo-mac/Apollo/Images.xcassets
+c0000000052E6F8E200000000000000EE
+t1390868706
+s238
+
+N/Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m
+c0000000052E6F8E2000000000000045B
+t1390868706
+s1115
+
+N/Users/dev/Documents/apollo-mac/Apollo/en.lproj/Credits.rtf
+c0000000052E6F8E200000000000001B4
+t1390868706
+s436
+
+N/Users/dev/Documents/apollo-mac/Apollo/en.lproj/InfoPlist.strings
+c0000000052E6F8E2000000000000002D
+t1390868706
+s45
+
+N/Users/dev/Documents/apollo-mac/Apollo/main.m
+c0000000052E6F8E200000000000000BF
+t1390868706
+s191
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.o
+t1390868775
+s38616
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.o
+t1390868775
+s30356
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.o
+t1390868775
+s35548
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/Apollo.LinkFileList
+c0000000052E6F9250000000000000264
+t1390868773
+s612
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.o
+t1390868775
+s21316
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.o
+t1390868775
+s2816
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/assetcatalog_dependencies.txt
+t1390868783
+s227
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/assetcatalog_generated_info.plist
+t1390868783
+s181
+
+N/Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.pch
+t1390868774
+s13710188
+
+N/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app
+t1390868773
+s102
+
+N/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Info.plist
+t1390868783
+s1380
+
+N/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/MacOS/Apollo
+t1390868776
+s38972
+
+N/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/PkgInfo
+t1390868783
+s8
+
+N/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1390868783
+s35297
+
+N/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/Credits.rtf
+t1390868776
+s436
+
+N/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1390868776
+s92
+
+CBuild AST from /Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m
+r0
+
+CBuild AST from /Users/dev/Documents/apollo-mac/Apollo/APLLButton.m
+r0
+
+CBuild AST from /Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m
+r0
+
+CBuild AST from /Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m
+r0
+
+CBuild AST from /Users/dev/Documents/apollo-mac/Apollo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2f6938a53097b841^63b654a53097b841^---0#1#1#--18"Check dependencies36"20AFF711-5AF1-477C-A5FA-C473A10217C8-
+
+CCompileAssetCatalog /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources /Users/dev/Documents/apollo-mac/Apollo/Images.xcassets
+s412561576.062612
+e412561583.835347
+r1
+xCompileAssetCatalog
+x/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources
+x/Users/dev/Documents/apollo-mac/Apollo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/Assets.car
+o/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CompileAssetCatalog Build/Products/Debug/Apollo.app/Contents/Resources Apollo/Images.xcassets93"CompileAssetCatalog Build/Products/Debug/Apollo.app/Contents/Resources Apollo/Images.xcassets2b1510a83097b841^6aded5af3097b841^-256"/* com.apple.actool.compilation-results *//Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/Assets.car/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@62"file:///Users/dev/Documents/apollo-mac/Apollo/Images.xcassets/0000000000000000^775"CompileAssetCatalog Build/Products/Debug/Apollo.app/Contents/Resources Apollo/Images.xcassets    cd /Users/dev/Documents/apollo-mac    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources /Users/dev/Documents/apollo-mac/Apollo/Images.xcassets36"D8133C5D-D18E-464D-B18E-B217305DEDCB-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.o /Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412561575.395810
+e412561575.590201
+r1
+xCompileC
+xBuild/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.o
+x/Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m195"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.o Apollo/APLLAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler897e65a73097b841^ad1797a73097b841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m0000000000000000^2992"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.o Apollo/APLLAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/apollo-mac    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-generated-files.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-own-target-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-all-target-headers.hmap -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-project-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources/x86_64 -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources -F/Users/dev/Documents/apollo-mac/Build/Products/Debug -include /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.d --serialize-diagnostics /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.dia -c /Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.m -o /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.o36"F8B7788F-9539-4E85-AB40-6481FA2C236B-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.o /Users/dev/Documents/apollo-mac/Apollo/APLLButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412561575.394953
+e412561575.588567
+r1
+xCompileC
+xBuild/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.o
+x/Users/dev/Documents/apollo-mac/Apollo/APLLButton.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/apollo-mac/Apollo/APLLButton.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/dev/Documents/apollo-mac/Apollo/APLLButton.m185"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.o Apollo/APLLButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler825565a73097b841^daac96a73097b841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/dev/Documents/apollo-mac/Apollo/APLLButton.m0000000000000000^2962"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.o Apollo/APLLButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/apollo-mac    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-generated-files.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-own-target-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-all-target-headers.hmap -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-project-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources/x86_64 -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources -F/Users/dev/Documents/apollo-mac/Build/Products/Debug -include /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.d --serialize-diagnostics /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.dia -c /Users/dev/Documents/apollo-mac/Apollo/APLLButton.m -o /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.o36"739045ED-7AD1-4E46-B952-DEFC7E3E6077-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.o /Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412561575.396490
+e412561575.593398
+r1
+xCompileC
+xBuild/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.o
+x/Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m
+d/Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m211"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.o Apollo/APLLLoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler11a965a73097b841^4aeb97a73097b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m0000000000000000^3040"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.o Apollo/APLLLoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/apollo-mac    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-generated-files.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-own-target-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-all-target-headers.hmap -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-project-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources/x86_64 -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources -F/Users/dev/Documents/apollo-mac/Build/Products/Debug -include /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.d --serialize-diagnostics /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.dia -c /Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.m -o /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.o36"EDDDD674-8520-48EB-8AF1-CD45AB64804F-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.o /Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412561575.396920
+e412561575.589730
+r1
+xCompileC
+xBuild/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.o
+x/Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m
+d/Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m195"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.o Apollo/NSView+APLLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8fc265a73097b841^23f996a73097b841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m0000000000000000^2992"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.o Apollo/NSView+APLLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/apollo-mac    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-generated-files.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-own-target-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-all-target-headers.hmap -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-project-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources/x86_64 -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources -F/Users/dev/Documents/apollo-mac/Build/Products/Debug -include /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.d --serialize-diagnostics /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.dia -c /Users/dev/Documents/apollo-mac/Apollo/NSView+APLLView.m -o /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.o36"881201CA-D560-4FB0-8312-76022D3790A0-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CCompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.o /Users/dev/Documents/apollo-mac/Apollo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412561575.395388
+e412561575.557845
+r1
+xCompileC
+xBuild/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.o
+x/Users/dev/Documents/apollo-mac/Apollo/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/apollo-mac/Apollo/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/dev/Documents/apollo-mac/Apollo/main.m173"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.o Apollo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler755865a73097b841^ddce8ea73097b841^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/dev/Documents/apollo-mac/Apollo/main.m0000000000000000^2926"CompileC Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.o Apollo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/apollo-mac    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-generated-files.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-own-target-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-all-target-headers.hmap -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-project-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources/x86_64 -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources -F/Users/dev/Documents/apollo-mac/Build/Products/Debug -include /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch -MMD -MT dependencies -MF /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.dia -c /Users/dev/Documents/apollo-mac/Apollo/main.m -o /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.o36"619C75CD-F017-4DDF-8384-0C035E2ACD67-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CCompileXIB /Users/dev/Documents/apollo-mac/Apollo/Base.lproj/MainMenu.xib
+s412561576.062077
+e412561583.518009
+r1
+xCompileXIB
+x/Users/dev/Documents/apollo-mac/Apollo/Base.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compiling /Users/dev/Documents/apollo-mac/Apollo/Base.lproj/MainMenu.xib41"CompileXIB Apollo/Base.lproj/MainMenu.xib28ef0fa83097b841^6b9d84af3097b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/dev/Documents/apollo-mac/Apollo/Base.lproj/MainMenu.xib0000000000000000^512"CompileXIB Apollo/Base.lproj/MainMenu.xib    cd /Users/dev/Documents/apollo-mac    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/dev/Documents/apollo-mac/Apollo/Base.lproj/MainMenu.xib36"F6AFE172-63A5-4DB5-8DD1-0879AFF65996-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CCopyStringsFile /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/InfoPlist.strings Apollo/en.lproj/InfoPlist.strings
+s412561576.061665
+e412561576.173659
+r1
+xCopyStringsFile
+x/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/InfoPlist.strings
+xApollo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy Apollo/en.lproj/InfoPlist.strings127"CopyStringsFile Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/InfoPlist.strings Apollo/en.lproj/InfoPlist.strings88f413a83097b841^d1762ca83097b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/dev/Documents/apollo-mac/Apollo/en.lproj/InfoPlist.strings0000000000000000^386"CopyStringsFile Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/InfoPlist.strings Apollo/en.lproj/InfoPlist.strings    cd /Users/dev/Documents/apollo-mac    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj -- Apollo/en.lproj/InfoPlist.strings36"921E72FC-A5F1-4E8B-A699-FBC7A51BAC98-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CCpResource Apollo/en.lproj/Credits.rtf Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/Credits.rtf
+s412561576.061862
+e412561576.156051
+r1
+xCpResource
+xApollo/en.lproj/Credits.rtf
+xBuild/Products/Debug/Apollo.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/Credits.rtf110"CpResource Apollo/en.lproj/Credits.rtf Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/Credits.rtf66f413a83097b841^34f427a83097b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/Credits.rtf0034404cddffdf42^414"CpResource Apollo/en.lproj/Credits.rtf Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/dev/Documents/apollo-mac    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dev/Documents/apollo-mac/Apollo/en.lproj/Credits.rtf /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Resources/en.lproj36"06975065-DF57-4010-B619-7BB861C59C60-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CLd /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/MacOS/Apollo normal x86_64
+s412561575.594236
+e412561576.060855
+r1
+xLd
+x/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/MacOS/Apollo
+xnormal
+xx86_64
+d/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/Apollo.LinkFileList
+d/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLButton.o
+d/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/main.o
+d/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLAppDelegate.o
+d/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/APLLLoginViewController.o
+d/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/NSView+APLLView.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/MacOS/Apollo70"Ld Build/Products/Debug/Apollo.app/Contents/MacOS/Apollo normal x86_64dc2e98a73097b841^5f950fa83097b841^---0#0#1#--967"Ld Build/Products/Debug/Apollo.app/Contents/MacOS/Apollo normal x86_64    cd /Users/dev/Documents/apollo-mac    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/dev/Documents/apollo-mac/Build/Products/Debug -F/Users/dev/Documents/apollo-mac/Build/Products/Debug -filelist /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/Apollo.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Accounts -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Objects-normal/x86_64/Apollo_dependency_info.dat -o /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/MacOS/Apollo36"74E22452-7B4B-47B5-B5F2-EA3B9F444A84-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CProcessInfoPlistFile /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Info.plist /Users/dev/Documents/apollo-mac/Apollo/Apollo-Info.plist
+s412561583.836521
+e412561583.860378
+r1
+xProcessInfoPlistFile
+x/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Info.plist
+x/Users/dev/Documents/apollo-mac/Apollo/Apollo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Process /Users/dev/Documents/apollo-mac/Apollo/Apollo-Info.plist97"ProcessInfoPlistFile Build/Products/Debug/Apollo.app/Contents/Info.plist Apollo/Apollo-Info.plistf73dd6af3097b841^ae48dcaf3097b841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/dev/Documents/apollo-mac/Apollo/Apollo-Info.plist0000000000000000^582"ProcessInfoPlistFile Build/Products/Debug/Apollo.app/Contents/Info.plist Apollo/Apollo-Info.plist    cd /Users/dev/Documents/apollo-mac    builtin-infoPlistUtility /Users/dev/Documents/apollo-mac/Apollo/Apollo-Info.plist -genpkginfo /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/assetcatalog_generated_info.plist -o /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app/Contents/Info.plist36"0E1D0958-F59F-4EFB-8226-685B1C689657-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CProcessPCH /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.pch Apollo/Apollo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412561573.345551
+e412561575.393357
+r1
+xProcessPCH
+x/Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.pch
+xApollo/Apollo-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/Documents/apollo-mac/Apollo/Apollo-Prefix.pch
+d/Users/dev/Documents/apollo-mac/Apollo/APLLGlobals.h
+d/Users/dev/Documents/apollo-mac/Apollo/APLLAppDelegate.h
+d/Users/dev/Documents/apollo-mac/Apollo/APLLLoginViewController.h
+d/Users/dev/Documents/apollo-mac/Apollo/APLLButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Apollo/Apollo-Prefix.pch209"ProcessPCH Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.pch Apollo/Apollo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler139a58a53097b841^49a164a73097b841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/dev/Documents/apollo-mac/Apollo/Apollo-Prefix.pch0000000000000000^2904"ProcessPCH Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.pch Apollo/Apollo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/Documents/apollo-mac    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-generated-files.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-own-target-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-all-target-headers.hmap -iquote /Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/Apollo-project-headers.hmap -I/Users/dev/Documents/apollo-mac/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources/x86_64 -I/Users/dev/Documents/apollo-mac/Build/Intermediates/Apollo.build/Debug/Apollo.build/DerivedSources -F/Users/dev/Documents/apollo-mac/Build/Products/Debug --serialize-diagnostics /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.d -c /Users/dev/Documents/apollo-mac/Apollo/Apollo-Prefix.pch -o /Users/dev/Documents/apollo-mac/Build/Intermediates/PrecompiledHeaders/Apollo-Prefix-gbwqkhbnodpqgwflliucdfadvktn/Apollo-Prefix.pch.pch36"E7E9B2DF-F6C5-4E3F-8CE8-6142AE38CFE0-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/Apollo-flawedilyzkcqjdxlaizyddflcpb/Index/PrecompiledHeaders/Apollo-Prefix-cxixcinhfmylslctvminxmzozipi_ast/Apollo-Prefix.pch.pch Apollo/Apollo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app
+s412561583.861746
+e412561583.895553
+r1
+xTouch
+x/Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Touch /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app37"Touch Build/Products/Debug/Apollo.appbcb1dcaf3097b841^4145e5af3097b841^---0#0#1#--163"Touch Build/Products/Debug/Apollo.app    cd /Users/dev/Documents/apollo-mac    /usr/bin/touch -c /Users/dev/Documents/apollo-mac/Build/Products/Debug/Apollo.app36"26CC98A7-8A5F-49A9-81D1-192F6DFDD4BB-
+b5A31DB83-81CB-4895-908D-DF7DE8DBD236
+
